@@ -1,5 +1,5 @@
 {
-	"name": "next_app_devcontainer",
+	"name": "nextauth_app_devcontainer",
 	"dockerComposeFile": [
 		"../docker-compose.dev.yml",
 		"docker-compose.yml"
